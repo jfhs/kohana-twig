@@ -1,0 +1,15 @@
+{
+    "name": "zyuskin_en/kohana-twig",
+    "type": "kohana-module",
+    "description": "Модуль шаблонизатора twig к kohanaframework",
+    "require": {
+        "twig/twig": "1.16.*@dev"
+    },
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "Егор Зюскин",
+            "email": "zyuskin_en@me.com"
+        }
+    ]
+}
